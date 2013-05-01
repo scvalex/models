@@ -3,6 +3,15 @@ models
 
 > Miscellaneous 3D models
 
+Discordian Coin
+---------------
+
+> A coin bearing the five fingered hand of Eris on one side, and the
+> number 5 on the other
+
+<img src="discordian-coin/discoin-head.png" alt="Discordian Coin head" />
+<img src="discordian-coin/discoin-tail.png" alt="Discordian Coin tail" />
+
 License
 -------
 
